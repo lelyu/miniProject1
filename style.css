@@ -115,7 +115,6 @@ to this section's matching END comment to see page-specific styles.
   .datavis {
     width: 550px;
     height: 400px;
-    contrast:
   }
   
   /* Instructions */
@@ -189,7 +188,7 @@ to this section's matching END comment to see page-specific styles.
   }
   
   .footercontainer {
-    grid-template-row: auto auto auto;
+    /* grid-template-row: auto auto auto; */
     flex-direction: row;
     border-radius: 5px;
     font-size: 15px;
